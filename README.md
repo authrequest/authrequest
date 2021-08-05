@@ -1,6 +1,6 @@
 ### Hi there, I'm authrequest - aka EmptyCarts 👋
 
-[![Twitter](https://img.shields.io/twitter/url?style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fx_auth_req)
+[![Twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fx_auth_req&screen_name=x_auth_req)
 
 <br />
 
